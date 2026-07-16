@@ -6,7 +6,6 @@ This repository contains the information for community-made plugins used in [Flo
 
 ## Plugin list
 
-
 Looking for a list of currently available plugins in Flow? Visit [here](https://www.flowlauncher.com/plugins)
 
 ## How to submit your plugin
