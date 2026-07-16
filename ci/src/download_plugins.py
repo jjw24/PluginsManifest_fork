@@ -6,6 +6,7 @@ directory.  It supports a ``--mode new`` option to download only newly
 submitted plugins, and a local metadata cache to avoid re-downloading
 unchanged versions.
 
+
 Usage examples::
 
     # Download all plugins
