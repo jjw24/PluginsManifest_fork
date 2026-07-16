@@ -5,7 +5,6 @@ from _utils import *
 MAX_BODY_LEN = 1024
 
 
-
 async def update_hook(webhook_url: str, info: PluginType, latest_ver: str, release: dict) -> None:
     embed = {
         "content": None,
